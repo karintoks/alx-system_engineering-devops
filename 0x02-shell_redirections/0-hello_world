@@ -1,2 +1,2 @@
-#!/bin/bash
-#include<stdio.h>\n int main(void){ printf("Hello, World");\n return 0 }
+#!bin/bash
+printf("Hello, World");\n return 0 }
