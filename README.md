@@ -3,4 +3,18 @@ wahala
 =======
 # alx-system_engineering-devops
 something dey
->>>>>>> ba573cbfe0b6aa9ca3d9b60a4f36d23051a4341e
+
+0x00-shell_basics
+
+
+0x01-shell_permissions
+
+
+0x02-shell_redirections
+
+
+0x03-shell_variables_expansions
+
+
+
+
